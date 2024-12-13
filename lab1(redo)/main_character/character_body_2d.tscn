@@ -198,7 +198,7 @@ script = ExtResource("1_q05pu")
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_tu624")
 autoplay = "default"
-frame_progress = 0.1036
+frame_progress = 0.44334
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 1.66667)
